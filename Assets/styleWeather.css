@@ -1,0 +1,90 @@
+
+
+#header h1 {
+    padding: 25px;
+    border-style: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: blanchedalmond;
+}
+
+#location {
+    height: 50px;
+    width: 300px;
+}
+
+#currentWeather {
+    background-color: azure;
+    border-style: dashed;
+    border-color: black;
+    padding: 5px;
+    margin: 25px;
+    height: 250px;
+}
+
+/* #hourly {
+    border-style: dashed;
+    border-color: black;
+    padding: 5px;
+    margin: 25px;
+    height: 150px;
+} */
+
+#fiveDay {
+    background-color: azure;
+    border-style: dashed;
+    border-color: black;
+    padding: 5px;
+    margin: 25px;
+    height: 250px;
+
+}
+
+
+#previous {
+    background-color: gainsboro;
+    border-style: inset;
+    border-color: grey;
+    height: 400px;
+}
+
+/* #day1 {
+    display: inline;
+    background-color: cornflowerblue;
+    border-style: groove;
+    border-color: cornsilk;
+    height: 200px;
+}
+
+#day2 {
+    display: inline;
+    background-color: cornflowerblue;
+    border-style: groove;
+    border-color: cornsilk;
+    height: 200px;
+}
+
+#day3 {
+    display: inline;
+    background-color: cornflowerblue;
+    border-style: groove;
+    border-color: cornsilk;
+    height: 200px;
+}
+
+#day4 {
+    display: inline;
+    background-color: cornflowerblue;
+    border-style: groove;
+    border-color: cornsilk;
+    height: 200px;
+}
+
+#day5 {
+    display: inline;
+    background-color: cornflowerblue;
+    border-style: groove;
+    border-color: cornsilk;
+    height: 200px;
+} */
