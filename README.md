@@ -6,4 +6,4 @@ If a city is clicked in the previous searches box, the results for that city wil
 
 I was unable to find the UV Index option with the results arrays.  I replaced this with Feels Like.  
 
-The URL for this webpage is: 
+The URL for this webpage is: https://desantel.github.io/week6weather/
